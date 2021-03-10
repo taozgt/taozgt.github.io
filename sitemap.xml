@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://taozgt.xyz/about/index.html</loc>
+    
+    <lastmod>2021-03-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://taozgt.xyz/2021/hexo/</loc>
     
     <lastmod>2021-01-28</lastmod>
@@ -43,17 +50,10 @@
     
   </url>
   
-  <url>
-    <loc>https://taozgt.xyz/about/index.html</loc>
-    
-    <lastmod>2021-01-26</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://taozgt.xyz/</loc>
-    <lastmod>2021-03-07</lastmod>
+    <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -63,7 +63,7 @@
   
   <url>
     <loc>https://taozgt.xyz/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-03-07</lastmod>
+    <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
